@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmppServer>
+	<!-- openfire 服务器 -->
+	<openfire ip="127.0.0.1" port="5222" domain="127.0.0.1" serviceName="test"></openfire>
+
+	<!-- 其他通讯服务器实现  -->
+</xmppServer>
