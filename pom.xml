@@ -6,6 +6,7 @@
 	<version>1.0</version>
 	<name>即使通讯客户端（工具jar）</name>
 	<description>基于XMMP协议的即使通讯客户端（基于smack封装），可登录，注册，添加好友，删除好友，改变用户在线状态等，</description>
+	<url>https://github.com/ontology-fhcj/im-xmmp-client</url>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
@@ -68,5 +69,5 @@
 		</dependency>
 	</dependencies>
 
-	<url>https://github.com/ontology-fhcj/im-xmmp-client</url>
+	
 </project>
